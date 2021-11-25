@@ -154,4 +154,10 @@ class SettingViewController: UIViewController {
 
 ## reference
 
+Jacob's DevLog - [https://jacobko.info/ios/ios-03/](https://jacobko.info/ios/ios-03/)
+
+On the swift - [https://ontheswift.tistory.com/8](https://ontheswift.tistory.com/8)
+
+농부와 코드 - [https://tono18.tistory.com/11](https://tono18.tistory.com/11)
+
 fastcampus - [https://fastcampus.co.kr/dev_online_iosappfinal](https://fastcampus.co.kr/dev_online_iosappfinal)
